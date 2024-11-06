@@ -70,6 +70,10 @@ Customer churn prediction is crucial for telecom companies to:
 1. **Visit the Live Demo**: You can try the app live by visiting the [Streamlit app](https://telecom-customer-churn-prediction-system.streamlit.app/).
 2. **Input Customer Data**: Enter customer details such as tenure, monthly charges, contract type, and whether they have dependents or a partner.
 3. **Predict Churn**: Click the "Predict Churn" button to get a prediction of whether the customer is likely to churn or not.
+![Screenshot 2024-11-06 224421](https://github.com/user-attachments/assets/1ba91530-2cbd-4af3-9b1c-30e465c7ee0d)
+
+![Screenshot 2024-11-06 224452](https://github.com/user-attachments/assets/4ec2af8d-8fa9-4f42-947d-c1a92a4dbbd3)
+
 
 ## How to Run the Model Locally
 
